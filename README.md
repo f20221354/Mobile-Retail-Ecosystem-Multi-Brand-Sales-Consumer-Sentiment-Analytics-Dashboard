@@ -1,0 +1,2 @@
+# Mobile-Retail-Ecosystem-Multi-Brand-Sales-Consumer-Sentiment-Analytics-Dashboard
+This **Mobile Sales Analytics Dashboard** provides a 360° view of retail performance across India. It tracks **769M in sales** and **19K units** using interactive filters for brands like Apple and Samsung. Key features include regional heat maps, payment method breakdowns, and consumer rating funnels to optimize inventory and marketing strategy.
